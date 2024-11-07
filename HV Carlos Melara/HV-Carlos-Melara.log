@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.4)  4 NOV 2024 10:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.4)  7 NOV 2024 11:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -597,7 +597,7 @@ Package hyperref Info: Link coloring OFF on input line 110.
 \@outlinefile=\write4
 \openout4 = `HV-Carlos-Melara.out'.
 
-<camelara kor24.jpg, id=39, 1720.4275pt x 2027.575pt>
+<camelara kor24.jpg, id=35, 1720.4275pt x 2027.575pt>
 File: camelara kor24.jpg Graphic file (type jpg)
 <use camelara kor24.jpg>
 Package pdftex.def Info: camelara kor24.jpg  used on input line 124.
@@ -651,17 +651,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 151--156
 
  []
 
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <12> not available
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 192.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 192.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' in size <10> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 204.
+(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 203.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 204.
+(Font)              scaled to size 10.0pt on input line 203.
 
-Underfull \hbox (badness 5711) in paragraph at lines 215--218
+Underfull \hbox (badness 5711) in paragraph at lines 214--217
 [][]\T1/ClearSans-TLF/regular/n/10 2021[]: ``Las Condi-ciones Macroe-conómi-cas y Geopolíti-cas de las
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 215--218
+Underfull \hbox (badness 1389) in paragraph at lines 214--217
 \T1/ClearSans-TLF/regular/n/10 Economías Emer-gentes de Lati-noamérica y su Rol en la Es-ti-mación
  []
 
@@ -670,18 +674,18 @@ Underfull \hbox (badness 1389) in paragraph at lines 215--218
 [1
 
 {c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}{c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/clearsans/clr_nrghxx.enc}{c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_t1-type1.enc} <./camelara kor24.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 237--251
+Underfull \hbox (badness 10000) in paragraph at lines 236--250
 
  []
 
 
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sl' in size <10> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/sl' tried instead on input line 307.
+(Font)              Font shape `T1/ClearSans-TLF/regular/sl' tried instead on input line 306.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/sl' in size <10> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 307.
+(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 306.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 307.
+(Font)              scaled to size 10.0pt on input line 306.
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -714,22 +718,22 @@ LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
 Package rerunfilecheck Info: File `HV-Carlos-Melara.out' has not changed.
-(rerunfilecheck)             Checksum: 087B004E0ACA1F9B728D1F08130F6647;1102.
+(rerunfilecheck)             Checksum: 202311E65DF533800710CA3EDF49B2BA;1081.
  )
 (\end occurred when \ifnum on line 31 was incomplete) 
 Here is how much of TeX's memory you used:
- 23225 strings out of 475322
- 434607 string characters out of 5768322
- 820414 words of memory out of 5000000
- 45668 multiletter control sequences out of 15000+600000
- 589018 words of font info for 51 fonts, out of 8000000 for 9000
+ 23226 strings out of 475322
+ 434697 string characters out of 5768322
+ 820354 words of memory out of 5000000
+ 45669 multiletter control sequences out of 15000+600000
+ 594884 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  117i,11n,121p,594b,781s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb><c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb><c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono.pfb><c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on HV-Carlos-Melara.pdf (3 pages, 596126 bytes).
+Output written on HV-Carlos-Melara.pdf (3 pages, 596085 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
- 93 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
- 82 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 105 PDF objects out of 1000 (max. 8388607)
+ 89 compressed objects within 1 object stream
+ 15 named destinations out of 1000 (max. 500000)
+ 74 words of extra memory for PDF output out of 10000 (max. 10000000)
 

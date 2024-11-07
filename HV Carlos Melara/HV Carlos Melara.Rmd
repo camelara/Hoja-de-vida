@@ -41,11 +41,11 @@ library(vitae)
 library(tibble)
 tribble(
   ~ Degree, ~ Year, ~ Institution, ~ Where,
-  "Master in Statistics and Data Science", "2024", "University of El Salvador", "San Salvador, El Salvador",
-  "Bachelor in Economics", "2018", "University of El Salvador", "San Salvador, El Salvador",
-  "Systems engineering (incomplete)", "2010", "University of El Salvador", "San Salvador, El Salvador"
+  "Master in Statistics and Data Science (in progress)", "2024", "University of El Salvador", "El Salvador",
+  "Bachelor in Economics", "2018", "University of El Salvador", "El Salvador",
+  "Systems engineering (incomplete)", "2010", "University of El Salvador", "El Salvador"
 ) %>% 
-  detailed_entries(Degree, Year, Institution, Where)
+  detailed_entries(Degree, Year, Where, Institution)
 ```
 
 
@@ -72,12 +72,10 @@ tribble(
 
 
 
+
 # Academic experience
-
-### Evaluador de Tesis de Grado
+## Evaluating court, for degree in economics.
 **Institution**: University of El Salvador  
-Evaluating court, for degree in economics.
-
 
 **Evaluated degree works**:
 
@@ -85,6 +83,7 @@ Evaluating court, for degree in economics.
 - **2023**: “Análisis socioeconómico de los salarios mínimos en El Salvador en el periodo 2007-2020: propuesta metodológica para su establecimiento y conversión en instrumento de política pública en una economía dolarizada”.
 - **2022**: “El Fondo para el Desarrollo Económico y Social de los Municipios, su efecto en la condición de pobreza en la Economía Salvadoreña, periodo 2010 a 2019”.
 - **2021**: “Las Condiciones Macroeconómicas y Geopolíticas de las Economías Emergentes de Latinoamérica y su Rol en la Estimación del Riesgo, Periodo 2001-2018”.
+
 
 
 # Consultant
@@ -165,7 +164,7 @@ bibliography_entries("publicaciones.bib") #%>%
 # Others
 
 
-### Webinars
+### Webinars (one of many)
 [Comercial Intelligence](https://youtu.be/ZxIRbi4fRiU)
 
 ### Podcast
@@ -174,7 +173,7 @@ bibliography_entries("publicaciones.bib") #%>%
 ### Website
 [Sistema de Inteligencia Comercial MINEC-El Salvador](https://inteligenciacomercial.economia.gob.sv/)
 
-### Dashboards
+### Dashboards (one of many)
 - [Dashboard 1](https://lc.cx/nQbhZL)
 - [Dashboard 2](https://lc.cx/-SXU7e)
 - [Dashboard 3](https://lc.cx/UbefdX)
