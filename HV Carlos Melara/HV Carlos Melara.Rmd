@@ -3,7 +3,7 @@ name: Carlos
 surname: Melara
 position: "Quantitative specialist"
 address: "Bo. San Esteban, Panchimalco"
-phone: +503 6006 9088
+phone: +503 6006 9088 / 7665 7429
 #pronouns: Mr.
 profilepic: 'camelara kor24.jpg'
 email: "carlosmelarapr@gmail.com"
@@ -139,14 +139,14 @@ bibliography_entries("publicaciones.bib") #%>%
   Director, Ministry of Economy  
   **Phone**: 7070 6022
 
-- **Mauricio Estevez**  
+- **Victor Bonilla**  
   Economyc Analyst, Ministry of Economy  
   **Phone**: 7797 3089
 
 
 # Professional reference
 
-- **Ademir  Péres**  
+- **Ademir  Pérez**  
   University professor, University of El Salvador  
   **Phone**: 7787 1681
 
