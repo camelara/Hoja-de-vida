@@ -9,12 +9,13 @@ profilepic: 'camelara kor24.jpg'
 email: "carlosmelarapr@gmail.com"
 github: '/camelara'
 linkedin: "www.linkedin.com/in/carlos-alberto-melara-cañas-a13523183"
-date: "`r format(Sys.time(), '%B %Y')`"
+date: "April, 2025"
+#date: "`r format(Sys.time(), '%B %Y')`"
 aboutme: |
   Economist, research, Data Analyst, Data Science student
 
   **Skills:**
-  -  R, Python, SQL, VBA, MS Office, Power BI, Google Colab
+  -  R, Python, SQL, STATA, VBA, MS Office, Power BI, Google Colab, GitHub
   -  Econometric models and forecast (ARIMA, VAR, MCO, VEC, Probit, Logit, ANOVA y ANCOVA)
   -  Machine Learning Models
   -  Languages: Spanish (native), English (medium)
@@ -41,7 +42,7 @@ library(vitae)
 library(tibble)
 tribble(
   ~ Degree, ~ Year, ~ Institution, ~ Where,
-  "Master in Statistics and Data Science (in progress)", "2024", "University of El Salvador", "El Salvador",
+  "Master in Statistics and Data Science (in progress)", "2025", "University of El Salvador", "El Salvador",
   "Bachelor in Economics", "2018", "University of El Salvador", "El Salvador",
   "Systems engineering (incomplete)", "2010", "University of El Salvador", "El Salvador"
 ) %>% 
@@ -136,22 +137,22 @@ bibliography_entries("publicaciones.bib") #%>%
 
 - **Laura Pacheco**  
   Director, Ministry of Economy  
-  **Celular**: 7070 6022
+  **Phone**: 7070 6022
 
 - **Mauricio Estevez**  
   Economyc Analyst, Ministry of Economy  
-  **Celular**: 7797 3089
+  **Phone**: 7797 3089
 
 
 # Professional reference
 
 - **Ademir  Péres**  
   University professor, University of El Salvador  
-  **Celular**: 7787 1681
+  **Phone**: 7787 1681
 
 - **Héctor Méndez**  
   Economyc Analyst, Central Bank of El Salvador  
-  **Celular**: 7564 4856
+  **Phone**: 7564 4856
 
 
 \newpage

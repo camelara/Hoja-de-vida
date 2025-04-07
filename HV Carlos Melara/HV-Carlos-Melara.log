@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.4)  7 NOV 2024 11:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.4)  1 APR 2025 10:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -29,7 +29,7 @@ Package: ClearSans 2022/09/15 (Bob Tennent) Supports Clear-Sans fonts for all La
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+Package: iftex 2024/12/12 v1.0g TeX engine tests
 )) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
@@ -346,24 +346,30 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen264
 \Gm@dimlist=\toks34
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and footers
+Package: fancyhdr 2025/01/07 v5.1.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip65
-\f@nch@O@elh=\skip66
-\f@nch@O@erh=\skip67
-\f@nch@O@olh=\skip68
-\f@nch@O@orh=\skip69
-\f@nch@O@elf=\skip70
-\f@nch@O@erf=\skip71
-\f@nch@O@olf=\skip72
-\f@nch@O@orf=\skip73
+\f@nch@offset@elh=\skip66
+\f@nch@offset@erh=\skip67
+\f@nch@offset@olh=\skip68
+\f@nch@offset@orh=\skip69
+\f@nch@offset@elf=\skip70
+\f@nch@offset@erf=\skip71
+\f@nch@offset@olf=\skip72
+\f@nch@offset@orf=\skip73
+\f@nch@height=\skip74
+\f@nch@footalignment=\skip75
+\f@nch@widthL=\skip76
+\f@nch@widthC=\skip77
+\f@nch@widthR=\skip78
+\@temptokenb=\toks35
 )
-\imagewidth=\skip74
-\imagescale=\skip75
-\TotalSectionLength=\skip76
-\SectionTitleLength=\skip77
+\imagewidth=\skip79
+\imagescale=\skip80
+\TotalSectionLength=\skip81
+\SectionTitleLength=\skip82
 \c@colorCounter=\count296
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2024-10-30 v7.01k Hypertext links for LaTeX
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
@@ -393,7 +399,7 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 \Hy@linkcounter=\count298
 \Hy@pagecounter=\count299
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2024-10-30 v7.01k Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -401,7 +407,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count300
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2024-10-30 v7.01k Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -444,7 +450,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2024-10-30 v7.01k Hyperref driver for pdfTeX
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
@@ -458,7 +464,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip78
+\Hy@SectionHShift=\skip83
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/dejavu/DejaVuSansMono.sty
 Package: DejaVuSansMono 2011/06/01 Style file for DejaVuSansMono.
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fixltx2e.sty
@@ -480,7 +486,7 @@ Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@qlevel=\count311
 \csq@maxlvl=\count312
 \csq@tshold=\count313
-\csq@ltx@everypar=\toks35
+\csq@ltx@everypar=\toks36
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
 )
@@ -508,20 +514,20 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count317
 \@thisrulewidth=\dimen281
 )
-\cslhangindent=\skip79
-\csllabelwidth=\skip80
+\cslhangindent=\skip84
+\csllabelwidth=\skip85
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count318
 \calc@Bcount=\count319
 \calc@Adimen=\dimen282
 \calc@Bdimen=\dimen283
-\calc@Askip=\skip81
-\calc@Bskip=\skip82
+\calc@Askip=\skip86
+\calc@Bskip=\skip87
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count320
-\calc@Cskip=\skip83
+\calc@Cskip=\skip88
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
@@ -690,7 +696,7 @@ LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
 (fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
 
 
@@ -704,7 +710,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
 (fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.0pt}.
 
 
@@ -722,15 +728,15 @@ Package rerunfilecheck Info: File `HV-Carlos-Melara.out' has not changed.
  )
 (\end occurred when \ifnum on line 31 was incomplete) 
 Here is how much of TeX's memory you used:
- 23226 strings out of 475322
- 434697 string characters out of 5768322
- 820354 words of memory out of 5000000
- 45669 multiletter control sequences out of 15000+600000
+ 23366 strings out of 475322
+ 438000 string characters out of 5768322
+ 823862 words of memory out of 5000000
+ 45809 multiletter control sequences out of 15000+600000
  594884 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  117i,11n,121p,594b,781s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb><c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb><c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono.pfb><c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on HV-Carlos-Melara.pdf (3 pages, 596085 bytes).
+Output written on HV-Carlos-Melara.pdf (3 pages, 596100 bytes).
 PDF statistics:
  105 PDF objects out of 1000 (max. 8388607)
  89 compressed objects within 1 object stream
