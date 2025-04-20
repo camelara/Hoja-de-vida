@@ -15,8 +15,8 @@ aboutme: |
   Economist, research, Data Analyst, Data Science student
 
   **Skills:**
-  -  R, Python, SQL, STATA, VBA, MS Office, Power BI, Google Colab, GitHub
-  -  Econometric models and forecast (ARIMA, VAR, MCO, VEC, Probit, Logit, ANOVA y ANCOVA)
+  -  R, Python, SQL, STATA, VBA, MS Office, Power BI, Google Colab, GitHub, WordPress
+  -  Econometric models and forecast
   -  Machine Learning Models
   -  Languages: Spanish (native), English (medium)
   
@@ -32,8 +32,9 @@ library(vitae)
 # Some stuf about me
 
  * I have articles published in indexed journals, newspapers and in the COLPROCE journals.
- * Winner of fifth place among 174 investigations of the Call For Papers SIECA 2020 regional contest.
+ * Winner of fifth place among 174 investigations of the Call For Papers SIECA 2020 regional contest (Analysis of the use of trade agreements)
  * I have been invited to give numerous presentations and webinars on economics, commerce and the economic situation at universities, government institutions and companies.
+ * I have knowledge of scientific research protocol, statistics, mathematics, econometrics, programming and BigData
  * Passionate about science, self-taught.
 
 # Education
@@ -59,20 +60,19 @@ tribble(
 2023 - Present
 
 - Big Data, webscraping, websites administration, research economic.
-- Creation of economic intelligence tools 
+- Creation of economic intelligence tools. 
 - Econometric models for economic analysis and forecast.
+- Evaluation analysis of new trade agreements between El Salvador and potential partners.
+- Continuous analysis of trade trends and particularities.
 
 
 ### Economic Analyst
 **Institution**: Ministry of Economy  
 2018 - 2022
 
-- Research and economic situation analysis.
-- Creation of reports to improve decision making.
-- Data and text mining
-
-
-
+- Research and economic situation analysis (labor market, business environment, competitiveness).
+- Creation of economic intelligence tools and reports to improve decision making.
+- Trade Policy Analysis
 
 # Academic experience
 ## Evaluating court, for degree in economics.
@@ -86,16 +86,14 @@ tribble(
 - **2021**: “Las Condiciones Macroeconómicas y Geopolíticas de las Economías Emergentes de Latinoamérica y su Rol en la Estimación del Riesgo, Periodo 2001-2018”.
 
 
+\newpage
 
 # Consultant
 
-- **2019 - Presente**: “Investigación científica, análisis de datos, gestión de bases de datos y Big Data”.
+- **2019 - Present**: “Scientific research, data analysis, database management and Big Data”.
   
 - **2018**: “Diagnóstico de las comunidades priorizadas en el distrito 3 del municipio de San Salvador”.
  
-
-\newpage
-
 
 
 # Courses and diplomas
@@ -110,7 +108,8 @@ tribble(
   2021, "Data Production for the Labor Market Information System in El Salvador", "Laboral market, Database.", "San Salvador, El Salvador",
   2021, "Statistical analysis using R", "Data analysis, Data visualization.", "Universidad Centroaméricana Jose Simeon Cañas UCA, El Salvador, El Salvador",
   2020, "Demographics and Projections", "Data analysis, Demographic statistics.", "United Nations Population Fund, UNFPA",
-  2019, "Regional Trade Policy Course", "World Trade Organization, Trade analysis, Trade policy analysis.", "The College of Mexico, Mexico DF",
+  2019, "Regional Trade Policy Course", "Trade regulations, Goods and services trade analysis, Trade policy analysis", "The World Trade Organization (WTO), The College of Mexico, Mexico DF",
+  2019, "The WTO and the Economics of Trade - Theory and Practice","Topics of the multilateral trade system and the WTO", "The World Trade Organization (WTO)- online",
   2019, "Good practices and methodologies implemented in the exercise of Commercial and Productive Intelligence", "Datawharehouse, Data analysis, Business Intelligence.", "PROECUADOR, Ecuador",
   2018, "Prospective", "Strategy, methodologies, theoretical bases and instruments.", "Ministry of Economy, El Salvador",
   2016, "Academic writing for researchers","Syntax and text structure.", "El Salvador"
@@ -143,6 +142,7 @@ bibliography_entries("publicaciones.bib") #%>%
   Economyc Analyst, Ministry of Economy  
   **Phone**: 7797 3089
 
+\newpage
 
 # Professional reference
 
@@ -151,14 +151,8 @@ bibliography_entries("publicaciones.bib") #%>%
   **Phone**: 7787 1681
 
 - **Héctor Méndez**  
-  Economyc Analyst, Central Bank of El Salvador  
+  University professor, Universidad Francisco Gavidia  
   **Phone**: 7564 4856
-
-
-\newpage
-
-
-
 
 
 
@@ -172,12 +166,15 @@ bibliography_entries("publicaciones.bib") #%>%
 [La Inflación en El Salvador](https://acortar.link/aypZYK)
 
 ### Website
-[Sistema de Inteligencia Comercial MINEC-El Salvador](https://inteligenciacomercial.economia.gob.sv/)
+Author/administator of the [Sistema de Inteligencia Comercial MINEC-El Salvador](https://inteligenciacomercial.economia.gob.sv/)
 
 ### Dashboards (one of many)
 - [Dashboard 1](https://lc.cx/nQbhZL)
 - [Dashboard 2](https://lc.cx/-SXU7e)
 - [Dashboard 3](https://lc.cx/UbefdX)
+
+### POS System- Hojaldre´s coffe
+-[System for collecting and printing payment tickets](https://github.com/camelara/Aplicaciones-VBA)
 
 ### Technical collaboration in scientific research
 [Research](https://acortar.link/66idyh)
