@@ -9,7 +9,7 @@ profilepic: 'camelara kor24.jpg'
 email: "carlosmelarapr@gmail.com"
 github: '/camelara'
 linkedin: "www.linkedin.com/in/carlos-alberto-melara-cañas-a13523183"
-date: "April, 2025"
+date: "July, 2025"
 #date: "`r format(Sys.time(), '%B %Y')`"
 aboutme: |
   Economist, research, Data Analyst, Data Science student
@@ -43,7 +43,7 @@ library(vitae)
 library(tibble)
 tribble(
   ~ Degree, ~ Year, ~ Institution, ~ Where,
-  "Master in Statistics and Data Science (in progress)", "2025", "University of El Salvador", "El Salvador",
+  "Master in Statistics and Data Science (in progress)", "2024+", "University of El Salvador", "El Salvador",
   "Bachelor in Economics", "2018", "University of El Salvador", "El Salvador",
   "Systems engineering (incomplete)", "2010", "University of El Salvador", "El Salvador"
 ) %>% 
@@ -178,3 +178,9 @@ Author/administator of the [Sistema de Inteligencia Comercial MINEC-El Salvador]
 
 ### Technical collaboration in scientific research
 [Research](https://acortar.link/66idyh)
+
+### Machine Learning- MINEC (ALDEA Project)
+-[Family income estimation models for the Salvadoran population](https://github.com/camelara/Ponderacion-de-variables)
+
+### Inflation analysis - MINEC 
+-[Monthly price forecast models. National, regional and world analytics](https://github.com/camelara/AnaliticaPrecios)
