@@ -9,13 +9,14 @@ profilepic: 'camelara kor24.jpg'
 email: "carlosmelarapr@gmail.com"
 github: '/camelara'
 linkedin: "www.linkedin.com/in/carlos-alberto-melara-cañas-a13523183"
-date: "July, 2025"
+date: "October, 2025"
 #date: "`r format(Sys.time(), '%B %Y')`"
 aboutme: |
   Economist, research, Data Analyst, Data Science student
 
   **Skills:**
-  -  R, Python, SQL, STATA, VBA, MS Office, Power BI, Google Colab, GitHub, WordPress
+  -  R, Python, Eviews, STATA, VBA, WordPress, MS Office, Power BI, Looker Studio, Google Colab
+  -  Big Query, GitHub, Shiny Apps, Cloud SQL Studio, Google Earth Engine, webscraping
   -  Econometric models and forecast
   -  Machine Learning Models
   -  Languages: Spanish (native), English (medium)
@@ -43,7 +44,7 @@ library(vitae)
 library(tibble)
 tribble(
   ~ Degree, ~ Year, ~ Institution, ~ Where,
-  "Master in Statistics and Data Science (in progress)", "2024+", "University of El Salvador", "El Salvador",
+  "Master in Statistics and Data Science", "2025+", "University of El Salvador", "El Salvador",
   "Bachelor in Economics", "2018", "University of El Salvador", "El Salvador",
   "Systems engineering (incomplete)", "2010", "University of El Salvador", "El Salvador"
 ) %>% 
@@ -70,9 +71,9 @@ tribble(
 **Institution**: Ministry of Economy  
 2018 - 2022
 
-- Research and economic situation analysis (labor market, business environment, competitiveness).
+- Research and economic situation analysis.
 - Creation of economic intelligence tools and reports to improve decision making.
-- Trade Policy Analysis
+- Data and text mining
 
 # Academic experience
 ## Evaluating court, for degree in economics.
@@ -151,13 +152,45 @@ bibliography_entries("publicaciones.bib") #%>%
   **Phone**: 7787 1681
 
 - **Héctor Méndez**  
-  University professor, Universidad Francisco Gavidia  
+  University professor, Francisco Gavidia University  
   **Phone**: 7564 4856
 
+# Designed tools
+
+### Website
+Author/administator of the [Sistema de Inteligencia Comercial MINEC-El Salvador](https://inteligenciacomercial.economia.gob.sv/)
+
+### Dashboards (Power BI)
+- [Dashboard 1](https://lc.cx/nQbhZL)
+- [Dashboard 2](https://lc.cx/-SXU7e)
+- [Dashboard 3](https://lc.cx/UbefdX)
+
+### Dashboards R
+- [Shiny App- Investment map](https://geodipe.economia.gob.sv/)
+- [Flexdashboards- Market labor Analysis](https://rpubs.com/camelara/886246)
+
+# Other tools (request access)
+
+### Analysis and dashboard using GCP  
+-[Dashboard GOES Poject](https://lookerstudio.google.com/reporting/a5db6b6b-be76-40af-b7c2-afdf6fbe0b43)
+
+### Machine Learning- MINEC (ALDEA Project)
+-[Family income estimation models for the Salvadoran population, and poverty classification](https://github.com/camelara/Ponderacion-de-variables)
+
+### Inflation analysis - MINEC 
+-[Monthly price forecast models. National, regional and world analytics](https://github.com/camelara/AnaliticaPrecios)
+
+### VBA System
+-[System for collecting and printing payment tickets](https://github.com/camelara/Aplicaciones-VBA)
+
+### Some reports and presentations
+-[Economic intelligence, business intelligence, presentations](https://github.com/camelara/Reportes-y-comunicaci-n-de-an-lisis)
 
 
 # Others
 
+### Technical collaboration in scientific research
+[Research](https://acortar.link/66idyh)
 
 ### Webinars (one of many)
 [Comercial Intelligence](https://youtu.be/ZxIRbi4fRiU)
@@ -165,22 +198,15 @@ bibliography_entries("publicaciones.bib") #%>%
 ### Podcast
 [La Inflación en El Salvador](https://acortar.link/aypZYK)
 
-### Website
-Author/administator of the [Sistema de Inteligencia Comercial MINEC-El Salvador](https://inteligenciacomercial.economia.gob.sv/)
 
-### Dashboards (one of many)
-- [Dashboard 1](https://lc.cx/nQbhZL)
-- [Dashboard 2](https://lc.cx/-SXU7e)
-- [Dashboard 3](https://lc.cx/UbefdX)
+\newpage
 
-### POS System- Hojaldre´s coffe
--[System for collecting and printing payment tickets](https://github.com/camelara/Aplicaciones-VBA)
+### Webscraping aplications
+- Labor market data
+- Companies profiles
+- Bilateral trade of goods
 
-### Technical collaboration in scientific research
-[Research](https://acortar.link/66idyh)
+### Satellite image analysis
+- Built infraestructure analysis
 
-### Machine Learning- MINEC (ALDEA Project)
--[Family income estimation models for the Salvadoran population](https://github.com/camelara/Ponderacion-de-variables)
 
-### Inflation analysis - MINEC 
--[Monthly price forecast models. National, regional and world analytics](https://github.com/camelara/AnaliticaPrecios)
