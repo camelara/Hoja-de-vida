@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.14)  24 OCT 2025 21:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.26)  26 NOV 2025 13:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **HV-Carlos-Melara.tex
 (./HV-Carlos-Melara.tex
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-07-11>
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-11-14>
 (./twentysecondcv.cls
 Document Class: twentysecondcv 2018/11/24 CV class
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
@@ -33,17 +33,18 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 )) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks17
 \XKV@tempa@toks=\toks18
+\XKV@tempb@toks=\toks19
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/keyval.tex))
 \XKV@depth=\count283
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontaxes/fontaxes.sty
 Package: fontaxes 2025-05-24 v2.0.1 Font selection axes (deprecated)
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontaxes/fontaxes-v1.sty
@@ -60,10 +61,10 @@ LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
 ))) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
-\inpenc@prehook=\toks19
-\inpenc@posthook=\toks20
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+ClearSans-TLF on input line 116.
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/clearsans/T1ClearSans-TLF.fd
 File: T1ClearSans-TLF.fd 2025/03/27 (autoinst) Font definitions for T1/ClearSans-TLF.
@@ -71,7 +72,7 @@ File: T1ClearSans-TLF.fd 2025/03/27 (autoinst) Font definitions for T1/ClearSans
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 116.
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks21
+\pgfutil@everybye=\toks22
 \pgfutil@tempdima=\dimen149
 \pgfutil@tempdimb=\dimen150
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
@@ -98,10 +99,10 @@ File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks22
-\pgfkeys@temptoks=\toks23
+\pgfkeys@pathtoks=\toks23
+\pgfkeys@temptoks=\toks24
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks24
+\pgfkeys@tmptoks=\toks25
 ))
 \pgf@x=\dimen153
 \pgf@y=\dimen154
@@ -119,9 +120,9 @@ Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 \c@pgf@countb=\count285
 \c@pgf@countc=\count286
 \c@pgf@countd=\count287
-\t@pgf@toka=\toks25
-\t@pgf@tokb=\toks26
-\t@pgf@tokc=\toks27
+\t@pgf@toka=\toks26
+\t@pgf@tokb=\toks27
+\t@pgf@tokc=\toks28
 \pgf@sys@id@count=\count288
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
@@ -159,9 +160,9 @@ Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
 \pgfmath@dimen=\dimen163
 \pgfmath@count=\count291
 \pgfmath@box=\box54
-\pgfmath@toks=\toks28
-\pgfmath@stack@operand=\toks29
-\pgfmath@stack@operation=\toks30
+\pgfmath@toks=\toks29
+\pgfmath@stack@operand=\toks30
+\pgfmath@stack@operation=\toks31
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count292
 )) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
@@ -244,8 +245,8 @@ Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
 \pgffor@iter=\dimen190
 \pgffor@skip=\dimen191
-\pgffor@stack=\toks31
-\pgffor@toks=\toks32
+\pgffor@stack=\toks32
+\pgffor@toks=\toks33
 )) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
@@ -293,7 +294,7 @@ Grid set 16 x 16 = 38.39343pt x 49.68562pt
 \TPboxrulesize=\dimen261
 \TP@ox=\dimen262
 \TP@oy=\dimen263
-\TP@tbargs=\toks33
+\TP@tbargs=\toks34
 TextBlockOrigin set to 0pt x 0pt
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
@@ -344,7 +345,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen269
 \Gm@layouthoffset=\dimen270
 \Gm@layoutvoffset=\dimen271
-\Gm@dimlist=\toks34
+\Gm@dimlist=\toks35
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@headwidth=\skip65
@@ -361,7 +362,7 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthL=\skip76
 \f@nch@widthC=\skip77
 \f@nch@widthR=\skip78
-\@temptokenb=\toks35
+\@temptokenb=\toks36
 )
 \imagewidth=\skip79
 \imagescale=\skip80
@@ -469,7 +470,7 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 ) (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@reset=\count321
@@ -478,7 +479,7 @@ Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@qlevel=\count324
 \csq@maxlvl=\count325
 \csq@tshold=\count326
-\csq@ltx@everypar=\toks36
+\csq@ltx@everypar=\toks37
 (c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
 )
@@ -654,16 +655,12 @@ Underfull \hbox (badness 1389) in paragraph at lines 224--227
 \T1/ClearSans-TLF/m/n/10 Economías Emer-gentes de Lati-noamérica y su Rol en la Es-ti-mación
  []
 
-
-
 [1
 
 {c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}{c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/clearsans/clr_bjsdl7.enc}{c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_t1-type1.enc} <./camelara kor24.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 246--261
 
  []
-
-
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sl' in size <10> not available
 (Font)              Font shape `T1/ClearSans-TLF/m/it' tried instead on input line 304.
@@ -683,7 +680,6 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [2]
 
-
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
 (fancyhdr)                \setlength{\headheight}{12.0pt}.
@@ -696,7 +692,6 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{15.4pt}.
 
 [3]
-
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -711,19 +706,19 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [4] (./HV-Carlos-Melara.aux)
  ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-07-11>
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-11-14>
  ***********
 Package rerunfilecheck Info: File `HV-Carlos-Melara.out' has not changed.
 (rerunfilecheck)             Checksum: 951DEB14CE34C72F4B36F3CBCD5C531D;2471.
  )
 (\end occurred when \ifnum on line 31 was incomplete) 
 Here is how much of TeX's memory you used:
- 23388 strings out of 469797
- 437781 string characters out of 5480686
- 836069 words of memory out of 5000000
- 51340 multiletter control sequences out of 15000+600000
- 663599 words of font info for 57 fonts, out of 8000000 for 9000
+ 23387 strings out of 469519
+ 437826 string characters out of 5467703
+ 840316 words of memory out of 5000000
+ 51616 multiletter control sequences out of 15000+600000
+ 664495 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  117i,11n,121p,594b,781s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Regular.ttf><c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Regular.ttf><c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb><c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono.pfb><c:/Users/camelara/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
